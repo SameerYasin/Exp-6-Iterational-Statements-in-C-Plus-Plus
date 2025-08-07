@@ -83,6 +83,9 @@ Step 3: Loop i from 1 to n
 Step 4: End
 ```
 
+<img width="423" height="356" alt="image" src="https://github.com/user-attachments/assets/00e9fb77-75d2-4b44-a5ed-69d2af2105dc" />
+
+
 #### **Alphabet Pattern:**
 
 ```plaintext
@@ -108,6 +111,13 @@ Step 3: Loop i from 1 to n
 Step 4: End
 ```
 
+<img width="521" height="316" alt="image" src="https://github.com/user-attachments/assets/44b93539-f94e-4bf9-b5a5-225072ae801e" />
+
+<img width="392" height="311" alt="image" src="https://github.com/user-attachments/assets/44f73db6-d531-44ca-a2db-d44e99a15229" />
+
+<img width="371" height="310" alt="image" src="https://github.com/user-attachments/assets/9f823ed5-1646-4e04-806d-23855f85e98c" />
+
+
 #### **Reversing an Integer:**
 
 ```plaintext
@@ -122,7 +132,8 @@ Step 5: Output s
 Step 6: End
 ```
 
----
+<img width="432" height="205" alt="image" src="https://github.com/user-attachments/assets/3a9e8e22-6232-4d63-9bb9-594251688a1d" />
+
 
 ### **Conclusion:**
 
