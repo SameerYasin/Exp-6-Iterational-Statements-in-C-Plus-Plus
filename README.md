@@ -27,18 +27,24 @@ C++ supports several types of loops which allow repeating a set of instructions 
   * **Initialization** – Setting the starting point (e.g., `int i = 0`)
   * **Condition** – Checked before each iteration
   * **Update** – Executes after every iteration (e.g., `i++`)
+    
+<img width="992" height="496" alt="470760633-f7ad2c73-e333-4f0d-9065-172f90f5eb74" src="https://github.com/user-attachments/assets/35899eda-cb65-4a51-800d-1d39cebad38e" />
 
 #### **2. While Loop**
 
 * **Type**: Entry-controlled loop
 * Ideal when the number of iterations isn't known beforehand.
 * The loop continues as long as the condition is true.
+  
+<img width="988" height="495" alt="470760689-8baa14b9-dd88-422f-800d-fe4ca678fa1f" src="https://github.com/user-attachments/assets/29cf18f1-e89b-4ab3-a4b9-318d31e61c61" />
 
 #### **3. Do-While Loop**
 
 * **Type**: Exit-controlled loop
 * Executes the loop body **at least once**, even if the condition is false.
 * The condition is evaluated **after** the body runs.
+
+<img width="991" height="494" alt="470761153-3be14645-3fce-42d3-8764-3ee92f1bfb2e" src="https://github.com/user-attachments/assets/b03031ca-837e-4976-8295-78bdaeec968a" />
 
 #### **4. Infinite Loop**
 
