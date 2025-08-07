@@ -3,10 +3,13 @@
 ### **Lab Experiment on Loops in C++**
 
 **Sameer Yasin**
+
 **PRN: 24070123092**
+
 **Experiment No: 6 & 7**
+
 **Software Required:**
-Visual Studio (or any C++ compatible IDE)
+Visual Studio Code (or any C++ compatible IDE)
 
 
 ### **Objective:**
