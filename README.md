@@ -68,8 +68,6 @@ To explore loop logic, the following practical examples were coded and tested:
 * **Pattern printing (stars, Floyd’s triangle, alphabetical patterns)**
 
 
-### **Algorithms Used:**
-
 #### **Floyd’s Triangle:**
 
 ```plaintext
@@ -93,6 +91,7 @@ Step 3: Loop i from 1 to n
         - Print newline after inner loop  
 Step 4: End
 ```
+<img width="592" height="176" alt="white_mode_alphabet" src="https://github.com/user-attachments/assets/d992fa87-0403-45f6-b653-c71ee259c045" />
 
 #### **Star Pattern:**
 
